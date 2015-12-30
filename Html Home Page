@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<head>
+  <title>Coding Zeal</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <header>
+    <a href="index.html"><img src="images/zeal_logo.png"></a>
+    <nav>
+      <ul>
+        <li><a href="#what-we-do">What we do</a></li>
+        <li><a href="index.html">Work</a></li>
+        <li><a href="index.html">Team</a></li>
+        <li><a href="index.html">Apprenticeship</a></li>
+        <li><a href="index.html">Jobs</a></li>
+        <li><a href="index.html">Contact us</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="what-we-are">
+    <h2>We Are Digital Artisans</h2>
+    <p>DESIGNING AND ENGINEERING AMAZING WEB AND MOBILE PRODUCTS</p>
+    <p>We love what we do. We have a passion for building projects that enhance people's lives. We have a zeal for great code serving the greater good.</p>
+    <img src="images/zeal-heroes.png"/>
+  </section>
+  <section id="what-we-do">
+    <h2>We Empower Visionaries</h2>
+    <p>Huge problems are solved with great ideas. We're here to bring those ideas to life. Because, the truth is, we're not the heroes: you are.</p>
+    <p>From vision to implementation, each step of our process ensures that what we've crafted is exactly what is needed. What good is the solution, if it doesn't make huge strides towards solving the problem?</p>
+    <p>Let's solve problems, together.</p>
+    <img src="images/zeal-spotlight.jpg"/>
+    <a href="#">Work with us</a>
+  </section>
+  <section id="supremely-handcrafted">
+    <p class="supreme-header">SUPREMELY HANDCRAFTED</p>
+    <h2>User Experience . Process . Technology</h2>
+    <p>We make certain the full experience is in alignment with the project goals. We go to great lengths, some would say superhuman, to ensure your product looks incredible and is accessible in all environments.</p>
+    <div style="margin: 0 1% 0% 2%;">
+      <div class="handcrafted-item">
+        <img src="images/responsive-design-comp.png" class="center-img" />
+        <h3>RESPONSIVE DESIGN</h3>
+        <p>We create beautiful applications carefully designed to look equally great on laptops, desktops, tablets, and phones, so you're accessible to all your customers, everywhere they go.</p>
+      </div>
+      <div class="handcrafted-item">
+        <img src="images/user-testing-comp.png" class="center-img" />
+        <h3> VALIDATION USER TESTING </h3>
+        <p>We don't just build functionality, we build winning products. We conduct testing and validate key assumptions and decisions to ensure we are always building the most beneficial features.</p>
+      </div>
+      <div class="handcrafted-item">
+        <img src="images/technology-comp.png" class="center-img" />
+        <h3> TECHNOLOGY &amp; TOOLS </h3>
+        <p> We embrace the most powerful web &amp; mobile technologies. With Ruby on Rails on the server side and rich JavaScript frameworks on the client side, we can accomplish anything!</p>
+      </div>
+      <div style="clear:both;"></div>
+    </div>
+  </section>
+  <section id="project-history-imgs">
+    <h1> Our Team Members Have Worked On Projects For...</h1>
+    <img src="images/logo-block-1.jpg" />
+    <img src="images/logo-block-2.jpg" />
+    <img src="images/logo-block-3.jpg" />
+    <img src="images/logo-block-4.jpg" />
+    <img src="images/logo-block-5.jpg" />
+    <img src="images/logo-block-6.jpg" />
+    <a href="#" >WORK WITH US</a>
+  </section>
+
+  <div id= "team-options">
+    <section id="the-team">
+      <h2>THE TEAM</h2>
+      <div>
+        <h3>PASSION MONGER</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/adam-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Adam Cuppy</p>
+        <p>COO</p>
+        <p>Founding Partner</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>LINCHPIN</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/trever-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Trever Yarrish</p>
+        <p>Managing Director</p>
+        <p>Founding Partner</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>CODE SLINGER</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/sean-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Sean Culver</p>
+        <p>Managing Director</p>
+        <p>Partner</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>LEXUN</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/luke-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Luke Barbuto</p>
+        <p>Software Engineer</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>Refactron</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/randy-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Randy Coulman</p>
+        <p>Sr. Sofware Engineer</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>DOCTOR ZELOS</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/jason-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Jason Harrison</p>
+        <p>Sofware Engineer</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>CRAINEUM</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/kevin-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Kevin Craine</p>
+        <p>Sofware Engineer</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>ZEPHYR</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/conroy-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Conroy Whitney</p>
+        <p>Sofware Engineer</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>OMNISCIA</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/stacey-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>STACEY KELLENBECK</p>
+        <p>Events &amp; Special Projects</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+      <div>
+        <h3>GEMULATOR</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/jules-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Jules Rogmans</p>
+        <p>Apprentice</p>
+        <a href="#"><img src="images/social-icon-sprite-sm.png"></a>
+      </div>
+    </section>
+    <section id="join-the-team">
+      <h2>We're Hiring</h2>
+      <div>
+        <h3>ARTISAN</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/silhouette-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Ui/Ux Designer</p>
+        <p>Design, HTML, SCSS</p>
+        <a href="#" >JOIN THE TEAM</a>
+      </div>
+      <div>
+        <h3>Virtuoso</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/silhouette-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Rails Engineer</p>
+        <p>Ruby on Rails, Javascript</p>
+        <a href="#" >JOIN THE TEAM</a>
+      </div>
+      <div>
+        <h3>Mobilizer</h3>
+        <a href="index.html"><img src="images/z-icon.png"></a>
+        <img src="images/silhouette-hero.png">
+        <p>SECRET IDENTITY</p>
+        <p>Mobile Engineer</p>
+        <p>IOS, Android</p>
+        <a href="#" >JOIN THE TEAM</a>
+      </div>
+    </section>
+  </div>
+  <footer>
+    <a href="#"><img src="images/social-icon-sprite-lg.png"></a>
+    <p>© 2013-2015 Zeal, LLC. All rights reserved</p>
+  </footer>
+</body>
